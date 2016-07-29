@@ -1,0 +1,2 @@
+# odoo-education
+Odoo Education
